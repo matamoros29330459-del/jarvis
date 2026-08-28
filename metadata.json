@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Holographic AI System",
+  "description": "Futuristic JARVIS AI web interface combining voice interaction, real-time weather, satellite orbital tracking, Memory Engine v2, biometric security protocols, and server-side cloud AI intelligence.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
